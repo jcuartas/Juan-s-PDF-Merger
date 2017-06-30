@@ -6,4 +6,5 @@ did not match with the link. After trying with different programs, I could not f
 it placed a watermark on every page, it was time consuming removing them, and with the program I had originally, then the hyperlinks
 were lost.
 
-I created this program after several times I used Python for merging my PDF files. It was better to create a GUI for doing this task.
+I created this program after several times I used Python for merging my PDF files. It was better to create a GUI for doing this task
+within seconds.
