@@ -1,5 +1,5 @@
 # Juan-s-PDF-Merger
-Simple program for merging PDF files preserving the pages as they are.
+Simple program for merging PDF files, preserving the pages as they are.
 
 This program is on its first version. I developed it as I was looking for choices to merge PDF files with hyperlinks where the text
 did not match with the link. After trying with different programs, I could not find any one which solved this issue. I found one but
