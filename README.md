@@ -8,3 +8,5 @@ were lost.
 
 I created this program after several times I used Python for merging my PDF files. It was better to create a GUI for doing this task
 within seconds.
+
+For the next version I am trying to add PDF files preview in order to visually choose pages from files.
